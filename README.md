@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @raviminamanur
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @RavithejaMinamanur
+- 👀 I’m interested in Python, React.js
+- 🌱 I’m currently learning Azure Data Engineering
+- 💞️ I’m looking to collaborate on Python, React.js and Azure
+- 📫 How to reach me raviminamanur@gmail.com
 
 <!---
 raviminamanur/raviminamanur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
